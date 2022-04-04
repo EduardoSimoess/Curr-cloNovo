@@ -1,0 +1,85 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+.cabeçalho {
+    background-color: #2fc18c;
+    background-size: cover;
+    display: inline-block;
+    margin: autos;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 50px 200px 0px;
+}
+
+.profilePicture {
+    width: 300px;
+    border-radius: 50%;
+    padding: 30px 150px;
+}
+
+.alinhamento p {
+    margin: 20px;
+    padding: 0px 70px 0px 180px;
+    text-align: justify;
+}
+
+.alinhamento {
+    display: inline;
+    width: 50%;
+    float: left;
+}
+
+.professionalExperiences {
+   
+    width: 100%;
+    margin: auto;
+    color: black;
+}
+.logos {
+    width: 150px;
+    border-radius: 50%;
+    padding: 40px 285px;
+    
+}
+.experience {
+    padding: 40px 40px 40px 750px;
+    color: black;
+}
+.experience {
+    font-size: 30px;
+    
+}
+.background {
+    background-color: lightgray;
+}
+.experiencias {
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
+    padding: 30px 60px;
+}
+.link {
+    text-align: center;
+}
+.experiencias p {
+    text-align: center;
+}
+.Geral {
+    background-color: #2fc18c;
+}
+.lists {
+    width: 25%;
+    display: inline-block;
+    padding: 30px 0px 30px 140px;
+    margin: auto;
+}
